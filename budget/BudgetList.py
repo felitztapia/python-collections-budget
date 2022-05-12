@@ -1,6 +1,6 @@
 from turtle import color
 from argon2 import Parameters
-from . import Expense
+from budget import Expense
 import matplotlib.pyplot as plt
 
 class BudgetList:
